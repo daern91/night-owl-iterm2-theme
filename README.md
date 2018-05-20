@@ -1,5 +1,15 @@
 # Night Owl 🌌
 
+An iTerm2 theme based on [Sarah Drasner's VS Code
+theme](https://github.com/sdras/night-owl-vscode-theme) of the same name.
+
+**Installation:** Drag the file `themes/Night Owl.itermcolors` onto iTerm2, or import
+it in *Preferences > Profiles > Colors*.
+
+Original README follows.
+
+---
+
 A VS Code theme for the night owls out there. Works well in the daytime, too, but this theme is fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
 ![Preview](preview.png)
